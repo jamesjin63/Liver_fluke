@@ -13,4 +13,3 @@ Predictive risk mapping of Opisthorchis viverrini infection across the Mekong Ri
 
 ## Figure 3
  Predicted Distribution of C. sinensis and O. viverrini, and Co-infection in the Greater Mekong Subregion in Laos and Vietnam by Random Forest.(A) O. viverrini: The red shaded areas, predominantly covering parts of Laos and Vietnam, indicate regions where the RF model predicts a higher risk of O. viverrini infection. B) C. sinensis: In contrast, the blue shaded areas suggest the RF model's prediction for the prevalence of C. sinensis, primarily within Vietnam. C) Co-infection: The third map showcases the zones with potential for co-infection, where the model indicates the presence of both O. viverrini and C. sinensis, noted by the intermingling of red and blue shades.)
-![image](https://github.com/jamesjin63/Liver_fluke/blob/main/Fig3.png)
